@@ -79,3 +79,13 @@ Find me on [Twitter](https://twitter.com/Siddharth1India)
 
 # LICENSE
 MIT
+
+## Star History
+
+<a href="https://star-history.com/#Siddharth1India/Awesome-Deep-Learning&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Siddharth1India/Awesome-Deep-Learning&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Siddharth1India/Awesome-Deep-Learning&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Siddharth1India/Awesome-Deep-Learning&type=Date" />
+  </picture>
+</a>
